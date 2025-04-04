@@ -1,4 +1,4 @@
-# Wonder Lust - Hotel Booking Website 🏨
+# Wonder Lust - Hostel Booking Website 🏨
 
 **Wonder Lust** is a dynamic and user-friendly hotel booking platform developed using the MERN (MongoDB, Express, React, Node.js) stack. The platform offers seamless user authentication, an intuitive interface, and robust features designed to enhance the user experience and simplify hotel reservations.
 
